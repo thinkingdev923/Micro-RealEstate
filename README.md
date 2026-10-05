@@ -96,9 +96,3 @@ MicroRealEstate is **source available** under the Sustainable Use License (SUL) 
 - Commits up to `479d0ad7` (December 9, 2025) remain under the MIT License; commits from `a95d44d` (February 11, 2026) onward are under the SUL.
 
 Read the full terms in [LICENSE.md](./LICENSE.md).
-
-## Contact
-
-Commercial licensing: [camel.aissani@gmail.com](mailto:camel.aissani@gmail.com?subject=MicroRealEstate%20commercial%20use)
-
-LinkedIn: [www.linkedin.com/in/caissani](https://www.linkedin.com/in/caissani/)
